@@ -1,0 +1,23 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Thunderwraith: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@github.com/Thunderwraith/Bot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Thunderwraith/Bot/issues"
+  },
+  "homepage": "https://github.com/Thunderwraith/Bot#readme",
+  "dependencies": {
+    "dotenv": "^14.2.0",
+    "node-telegram-bot-api": "^0.56.0"
+  }
+}
